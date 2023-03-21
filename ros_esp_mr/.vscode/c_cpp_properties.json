@@ -1,0 +1,43 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/regemludius/robot_ws/devel/include/**",
+        "/home/regemludius/vslam_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/regemludius/robot_ws/src/costmap_prohibition_layer/include/**",
+        "/home/regemludius/robot_ws/src/trossen/interbotix_ros_core/interbotix_ros_xseries/dynamixel_workbench_toolbox/include/**",
+        "/home/regemludius/robot_ws/src/trossen/interbotix_ros_toolboxes/interbotix_common_toolbox/interbotix_moveit_interface/include/**",
+        "/home/regemludius/robot_ws/src/trossen/interbotix_ros_toolboxes/interbotix_ux_toolbox/interbotix_ux_ros_control/include/**",
+        "/home/regemludius/robot_ws/src/trossen/interbotix_ros_toolboxes/interbotix_xs_toolbox/interbotix_xs_ros_control/include/**",
+        "/home/regemludius/robot_ws/src/trossen/interbotix_ros_core/interbotix_ros_xseries/interbotix_xs_sdk/include/**",
+        "/home/regemludius/robot_ws/src/trossen/interbotix_ros_manipulators/interbotix_ros_xsarms/examples/interbotix_xsarm_pid/include/**",
+        "/home/regemludius/robot_ws/src/kinova-ros/kinova_moveit/inverse_kinematics_plugins/ikfast/j2n6s300_ikfast/include/**",
+        "/home/regemludius/robot_ws/src/kinova-ros/kinova_moveit/inverse_kinematics_plugins/ikfast/j2s6s300_ikfast/include/**",
+        "/home/regemludius/robot_ws/src/kinova-ros/kinova_moveit/inverse_kinematics_plugins/ikfast/j2s7s300_ikfast/include/**",
+        "/home/regemludius/robot_ws/src/kinova-ros/kinova_moveit/kinova_arm_moveit_demo/include/**",
+        "/home/regemludius/robot_ws/src/kinova-ros/kinova_driver/include/**",
+        "/home/regemludius/robot_ws/src/kinova-ros/kinova_moveit/inverse_kinematics_plugins/ikfast/m1n6s300_ikfast/include/**",
+        "/home/regemludius/vslam_ws/src/orb_slam3_ros/include/**",
+        "/home/regemludius/robot_ws/src/rcomponent/include/**",
+        "/home/regemludius/robot_ws/src/robotnik_elevator_interface/robotnik_elevator_component/include/**",
+        "/home/regemludius/robot_ws/src/robotnik_gazebo_plugins/robotnik_force_based_move/include/**",
+        "/home/regemludius/robot_ws/src/robotnik_gazebo_plugins/robotnik_gazebo_ground_truth_odom/include/**",
+        "/home/regemludius/robot_ws/src/robotnik_pad/robotnik_pad/include/**",
+        "/home/regemludius/robot_ws/src/robotnik_pad/robotnik_pad_plugins/include/**",
+        "/home/regemludius/robot_ws/src/trossen/interbotix_ros_core/interbotix_ros_uxarms/xarm_api/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

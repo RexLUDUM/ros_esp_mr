@@ -1,0 +1,8 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/regemludius/robot_ws/devel/lib/python3/dist-packages",
+        "/home/regemludius/vslam_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "cmake.sourceDirectory": "${workspaceFolder}/ros_esp_mr"
+}
