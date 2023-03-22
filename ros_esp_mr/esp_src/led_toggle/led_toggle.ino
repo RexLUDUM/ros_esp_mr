@@ -16,7 +16,7 @@ void messageCb( const std_msgs::Empty& toggle_msg){
   else{
     digitalWrite(LED_BUILTIN, 1);
   }
-     // blink the led
+  // blink the led
 }
 
 ros::Subscriber<std_msgs::Empty> sub("toggle_led", &messageCb );
